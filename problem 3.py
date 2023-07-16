@@ -1,3 +1,4 @@
+#user defined function to print the respective numbers asked in the test
 def generateNumbers(a):
     if(a%2==0):
         a-=1
