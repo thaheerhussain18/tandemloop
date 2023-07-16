@@ -1,3 +1,4 @@
+#created an calculator class and taking parameters 
 class calculator:
     def __init__(self,a,b,type_of_operation):
         self.a=a;
