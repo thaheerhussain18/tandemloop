@@ -1,3 +1,4 @@
+#user defined function to print series of numbers asked in test problem
 def generateNumbers(a):
     output = []
     for i in range(1, a*2, 2):
