@@ -15,7 +15,7 @@ class calculator:
         else:
             return "Invalid Operation Type"
 
-
+#taking inputs from user and creating constructer of calculator to perform calculation
 a=int(input("enter the a variable: "))
 b=int(input("enter the b variable: "))
 type_of_operation=input("enter the Operation to perform: ")
